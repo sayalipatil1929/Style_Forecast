@@ -1,6 +1,6 @@
 # 🌤️ STYLE_FORCAST-Weather to Outfit Recommender API
 * "Learning how to bridge the gap between external data and user logic."
-- This project marks my transition into backend development with FastAPI.\n
+- This project marks my transition into backend development with FastAPI.<br>
 -I built this to demonstrate how a server can "talk" to the outside world, process complex data, and return something useful to a user.
 ---
 ## 🎯 The Implementation Goal
@@ -17,8 +17,8 @@
 ---
 ## 📁 Project Structure
 .
-├── .env                # Secret API keys (not uploaded to GitHub)
-├── .gitignore          # Tells Git what to ignore (venv, .env)
-├── main.py             # My FastAPI implementation logic
-├── requirements.txt    # The "ingredients" list for this project
+├── .env                # Secret API keys (not uploaded to GitHub)<br>
+├── .gitignore          # Tells Git what to ignore (venv, .env)<br>
+├── main.py             # My FastAPI implementation logic<br>
+├── requirements.txt    # The "ingredients" list for this project<br>
 └── README.md           # This file!
