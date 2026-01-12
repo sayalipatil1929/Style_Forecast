@@ -1,4 +1,5 @@
-# 🌤️ STYLE_FORCAST-Weather to Outfit Recommender API
+# 🌤️ STYLE_FORCAST<br>
+## Weather to Outfit Recommender API
 * Learning how to bridge the gap between external data and user logic.
 * This project marks my transition into backend development with FastAPI.<br>
 * I built this to demonstrate how a server can "talk" to the outside world, process complex data, and return something useful to a user.
